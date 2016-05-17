@@ -1,5 +1,9 @@
 # MRDocker
 
+### License
+MRDocker is licensed under the Apache License, Version 2.0.
+Each source code file has full license information.
+
 ###Introduction
 MRDOcker is a Docker controller which was designed to mitigate memory pressure in Big Data application(This is why this project is called MR). Since Docker is one of the most popular container implementation and is widely used to host different applications. So we design and implement MRDocker as a central container manager to detects and releif memory pressure.
 
